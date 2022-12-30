@@ -2,3 +2,6 @@
 simon
 peter
 paul
+amaka
+faith
+fatima
